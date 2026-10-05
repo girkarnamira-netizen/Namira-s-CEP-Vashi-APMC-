@@ -1,0 +1,201 @@
+Shipment_ID,Product,Source,Destination,Distance_km,Transport_Mode,Transport_Cost_INR,Expected_Time_hr,Actual_Time_hr,Delay_Hours,Quantity_Transported_kg,Quantity_Damaged_kg
+SHP001,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",210,Truck,6560.67,7.1,9.2,2.1,680.5,38.6
+SHP002,Potato,Jalgaon,"APMC Vashi, Navi Mumbai",155,Tempo,3008.49,3.7,4.0,0.3,406.3,7.1
+SHP003,Potato,Solapur,"APMC Vashi, Navi Mumbai",25,Pickup,658.6,0.6,2.9,2.3,669.2,27.6
+SHP004,Tomato,Pune,"APMC Vashi, Navi Mumbai",31,Truck,1262.26,0.9,0.9,0.0,438.6,20.2
+SHP005,Tomato,Chandrapur,"APMC Vashi, Navi Mumbai",233,Mini Truck,5330.79,5.8,7.5,1.7,645.4,10.0
+SHP006,Potato,Ahilyanagar,"APMC Vashi, Navi Mumbai",181,Mini Truck,4299.61,5.8,6.0,0.2,456.5,21.3
+SHP007,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",163,Tempo,3243.98,5.6,7.4,1.8,456.7,23.6
+SHP008,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",199,Pickup,3857.76,5.0,5.0,0.0,338.8,18.3
+SHP009,Tomato,Satara,"APMC Vashi, Navi Mumbai",39,Truck,1485.78,1.2,1.7,0.5,624.8,20.6
+SHP010,Tomato,Ratnagiri,"APMC Vashi, Navi Mumbai",200,Mini Truck,4649.68,6.9,7.5,0.6,354.4,14.6
+SHP011,Tomato,Nashik,"APMC Vashi, Navi Mumbai",170,Mini Truck,4250.71,5.6,7.6,2.0,589.7,29.6
+SHP012,Potato,Pune,"APMC Vashi, Navi Mumbai",252,Pickup,5201.89,6.6,8.2,1.6,258.2,12.5
+SHP013,Potato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",49,Tempo,1184.01,1.2,1.8,0.6,666.6,9.3
+SHP014,Onion,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",180,Truck,5895.9,4.5,4.9,0.4,718.5,4.2
+SHP015,Tomato,Mumbai,"APMC Vashi, Navi Mumbai",104,Truck,3642.58,2.6,4.6,2.0,474.9,24.5
+SHP016,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",22,Tempo,944.23,0.7,2.7,2.0,309.6,18.2
+SHP017,Potato,Nagpur,"APMC Vashi, Navi Mumbai",69,Tempo,1560.0,1.8,1.8,0.0,730.3,20.5
+SHP018,Potato,Satara,"APMC Vashi, Navi Mumbai",182,Tempo,3465.04,5.6,5.6,0.0,226.5,9.8
+SHP019,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",279,Pickup,5587.91,7.0,9.9,2.9,456.7,9.1
+SHP020,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",206,Pickup,4244.46,7.2,9.2,2.0,684.0,32.4
+SHP021,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",105,Pickup,2040.71,3.1,6.5,3.4,288.7,12.7
+SHP022,Onion,Solapur,"APMC Vashi, Navi Mumbai",33,Tempo,1149.88,0.9,3.6,2.7,622.9,3.5
+SHP023,Tomato,Pune,"APMC Vashi, Navi Mumbai",238,Pickup,4804.93,8.1,9.8,1.7,313.7,4.0
+SHP024,Potato,Nagpur,"APMC Vashi, Navi Mumbai",48,Truck,1674.6,1.3,3.6,2.3,477.0,23.0
+SHP025,Tomato,Nashik,"APMC Vashi, Navi Mumbai",44,Mini Truck,1200.76,1.2,3.9,2.7,537.8,11.4
+SHP026,Potato,Sangli,"APMC Vashi, Navi Mumbai",262,Mini Truck,6001.67,6.3,7.3,1.0,738.2,8.9
+SHP027,Potato,Mumbai,"APMC Vashi, Navi Mumbai",252,Mini Truck,5894.59,8.5,10.6,2.1,289.1,5.3
+SHP028,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",98,Tempo,2057.73,3.3,4.1,0.8,786.1,33.0
+SHP029,Onion,Pune,"APMC Vashi, Navi Mumbai",43,Tempo,946.07,1.5,5.2,3.7,257.1,6.5
+SHP030,Tomato,Mumbai,"APMC Vashi, Navi Mumbai",200,Pickup,4009.76,5.8,6.6,0.8,157.4,1.5
+SHP031,Onion,Dhule,"APMC Vashi, Navi Mumbai",37,Mini Truck,1425.23,1.2,1.8,0.6,648.3,7.5
+SHP032,Onion,Nashik,"APMC Vashi, Navi Mumbai",190,Tempo,3370.5,6.3,7.0,0.7,124.0,3.3
+SHP033,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",102,Tempo,2096.4,2.6,4.0,1.4,525.2,15.1
+SHP034,Onion,Nashik,"APMC Vashi, Navi Mumbai",138,Pickup,2713.26,4.8,6.8,2.0,742.1,23.7
+SHP035,Tomato,Nashik,"APMC Vashi, Navi Mumbai",217,Pickup,4197.15,6.9,8.3,1.4,585.7,24.0
+SHP036,Potato,Pune,"APMC Vashi, Navi Mumbai",67,Tempo,1277.01,2.0,2.4,0.4,151.4,7.9
+SHP037,Tomato,Satara,"APMC Vashi, Navi Mumbai",230,Mini Truck,5462.18,7.1,7.9,0.8,225.7,12.7
+SHP038,Onion,Sangli,"APMC Vashi, Navi Mumbai",31,Tempo,1049.03,0.8,0.8,0.0,178.2,2.0
+SHP039,Potato,Jalgaon,"APMC Vashi, Navi Mumbai",251,Pickup,4736.0,7.7,8.3,0.6,100.3,3.9
+SHP040,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",266,Pickup,5077.72,7.9,7.9,0.0,158.6,1.1
+SHP041,Onion,Pune,"APMC Vashi, Navi Mumbai",213,Tempo,4018.11,5.4,5.5,0.1,661.0,38.5
+SHP042,Tomato,Sangli,"APMC Vashi, Navi Mumbai",276,Truck,8480.95,6.6,8.2,1.6,165.1,1.8
+SHP043,Onion,Jalgaon,"APMC Vashi, Navi Mumbai",235,Pickup,4657.62,6.2,7.2,1.0,127.0,3.2
+SHP044,Onion,Beed,"APMC Vashi, Navi Mumbai",208,Mini Truck,5034.16,6.4,9.3,2.9,667.4,29.4
+SHP045,Onion,Solapur,"APMC Vashi, Navi Mumbai",258,Mini Truck,5882.33,7.3,7.9,0.6,365.1,15.7
+SHP046,Onion,Satara,"APMC Vashi, Navi Mumbai",123,Mini Truck,3251.41,4.3,6.0,1.7,486.1,14.7
+SHP047,Tomato,Nashik,"APMC Vashi, Navi Mumbai",88,Mini Truck,2607.39,2.2,2.2,0.0,500.5,21.3
+SHP048,Onion,Pune,"APMC Vashi, Navi Mumbai",241,Pickup,4851.87,6.3,7.1,0.8,749.8,16.4
+SHP049,Potato,Pune,"APMC Vashi, Navi Mumbai",161,Pickup,3470.17,4.7,5.0,0.3,797.2,11.5
+SHP050,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",159,Tempo,2788.99,4.5,5.7,1.2,641.9,25.2
+SHP051,Onion,Jalgaon,"APMC Vashi, Navi Mumbai",233,Mini Truck,5621.97,6.1,7.7,1.6,472.8,9.9
+SHP052,Onion,Nagpur,"APMC Vashi, Navi Mumbai",129,Truck,4496.93,3.3,3.3,0.0,503.4,7.4
+SHP053,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",190,Truck,5876.75,4.9,5.8,0.9,518.8,26.8
+SHP054,Onion,Nagpur,"APMC Vashi, Navi Mumbai",189,Tempo,3476.21,4.7,4.8,0.1,227.6,13.2
+SHP055,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",265,Tempo,4391.7,8.0,10.6,2.6,731.0,32.4
+SHP056,Potato,Pune,"APMC Vashi, Navi Mumbai",154,Pickup,3051.37,4.5,4.5,0.0,212.1,3.4
+SHP057,Onion,Pune,"APMC Vashi, Navi Mumbai",143,Tempo,2696.87,3.6,4.5,0.9,665.5,32.3
+SHP058,Potato,Mumbai,"APMC Vashi, Navi Mumbai",67,Mini Truck,1940.67,1.8,2.8,1.0,785.1,20.3
+SHP059,Potato,Pune,"APMC Vashi, Navi Mumbai",250,Tempo,4253.06,8.8,12.2,3.4,267.3,8.4
+SHP060,Onion,Nashik,"APMC Vashi, Navi Mumbai",33,Mini Truck,1129.66,0.9,1.2,0.3,351.4,16.1
+SHP061,Onion,Nashik,"APMC Vashi, Navi Mumbai",40,Truck,1615.17,1.3,4.1,2.8,410.6,16.2
+SHP062,Tomato,Satara,"APMC Vashi, Navi Mumbai",26,Truck,1076.35,0.7,1.0,0.3,350.6,11.7
+SHP063,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",135,Truck,4351.66,4.7,5.5,0.8,688.1,24.9
+SHP064,Tomato,Mumbai,"APMC Vashi, Navi Mumbai",260,Mini Truck,6335.99,8.1,9.1,1.0,174.3,5.9
+SHP065,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",280,Truck,8705.42,6.9,7.5,0.6,397.5,16.0
+SHP066,Onion,Nashik,"APMC Vashi, Navi Mumbai",23,Tempo,763.14,0.6,1.0,0.4,112.9,4.8
+SHP067,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",121,Mini Truck,2845.2,3.4,5.8,2.4,440.8,25.0
+SHP068,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",67,Tempo,1496.78,2.4,3.9,1.5,135.4,4.6
+SHP069,Onion,Nashik,"APMC Vashi, Navi Mumbai",276,Mini Truck,6740.27,9.1,10.5,1.4,762.4,36.2
+SHP070,Potato,Nagpur,"APMC Vashi, Navi Mumbai",178,Mini Truck,4500.57,5.5,5.7,0.2,554.3,29.8
+SHP071,Onion,Pune,"APMC Vashi, Navi Mumbai",257,Pickup,4876.9,8.5,8.8,0.3,272.3,7.5
+SHP072,Tomato,Pune,"APMC Vashi, Navi Mumbai",239,Truck,7838.21,5.9,6.4,0.5,443.8,20.7
+SHP073,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",166,Truck,5607.21,4.4,6.5,2.1,481.8,18.8
+SHP074,Potato,Pune,"APMC Vashi, Navi Mumbai",96,Mini Truck,2319.26,2.6,2.8,0.2,261.9,8.4
+SHP075,Onion,Pune,"APMC Vashi, Navi Mumbai",73,Mini Truck,2035.46,2.2,3.7,1.5,174.6,1.4
+SHP076,Onion,Nashik,"APMC Vashi, Navi Mumbai",43,Mini Truck,1425.41,1.3,3.4,2.1,456.4,13.1
+SHP077,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",175,Truck,5742.06,4.9,6.1,1.2,698.1,8.5
+SHP078,Onion,Pune,"APMC Vashi, Navi Mumbai",88,Truck,3279.1,2.9,2.9,0.0,466.0,13.4
+SHP079,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",171,Pickup,3753.73,4.6,4.6,0.0,235.3,13.5
+SHP080,Tomato,Nashik,"APMC Vashi, Navi Mumbai",66,Truck,2386.56,1.9,2.5,0.6,501.6,22.8
+SHP081,Potato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",128,Tempo,2574.71,3.2,3.6,0.4,398.3,12.3
+SHP082,Potato,Solapur,"APMC Vashi, Navi Mumbai",183,Pickup,3802.59,4.6,8.2,3.6,495.3,18.6
+SHP083,Tomato,Jalgaon,"APMC Vashi, Navi Mumbai",150,Pickup,3248.25,4.5,6.4,1.9,255.8,11.0
+SHP084,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",221,Tempo,4000.48,6.0,6.0,0.0,393.7,10.8
+SHP085,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",125,Mini Truck,3021.09,4.1,5.6,1.5,501.3,3.2
+SHP086,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",59,Mini Truck,1597.98,1.9,3.9,2.0,200.4,8.2
+SHP087,Potato,Nashik,"APMC Vashi, Navi Mumbai",218,Tempo,4136.21,7.5,7.8,0.3,396.8,4.5
+SHP088,Onion,Mumbai,"APMC Vashi, Navi Mumbai",254,Pickup,4947.92,6.8,7.2,0.4,338.4,2.7
+SHP089,Tomato,Amarawati,"APMC Vashi, Navi Mumbai",275,Mini Truck,6628.37,7.3,8.5,1.2,294.9,12.4
+SHP090,Potato,Nagpur,"APMC Vashi, Navi Mumbai",52,Tempo,1262.1,1.5,1.5,0.0,450.5,22.9
+SHP091,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",240,Tempo,4480.73,7.1,8.6,1.5,529.6,26.0
+SHP092,Onion,Pune,"APMC Vashi, Navi Mumbai",40,Mini Truck,1509.17,1.0,2.7,1.7,376.9,17.1
+SHP093,Onion,Sangli,"APMC Vashi, Navi Mumbai",57,Tempo,1198.92,1.4,2.3,0.9,411.4,2.5
+SHP094,Tomato,Sangli,"APMC Vashi, Navi Mumbai",161,Truck,5018.15,4.7,5.9,1.2,165.1,4.5
+SHP095,Onion,Nashik,"APMC Vashi, Navi Mumbai",177,Pickup,3700.71,5.6,8.2,2.6,431.2,4.1
+SHP096,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",180,Truck,5915.17,5.8,9.7,3.9,180.6,2.8
+SHP097,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",156,Mini Truck,4082.12,4.3,4.3,0.0,456.7,7.4
+SHP098,Potato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",186,Pickup,3942.19,4.9,4.9,0.0,286.1,15.5
+SHP099,Potato,Pune,"APMC Vashi, Navi Mumbai",88,Mini Truck,2167.13,2.8,4.5,1.7,184.1,10.8
+SHP100,Tomato,Pune,"APMC Vashi, Navi Mumbai",62,Truck,2535.51,1.9,3.9,2.0,438.6,19.9
+SHP101,Potato,Pune,"APMC Vashi, Navi Mumbai",56,Truck,2065.56,1.4,2.7,1.3,496.9,7.8
+SHP102,Potato,Nashik,"APMC Vashi, Navi Mumbai",126,Truck,3965.97,3.3,5.1,1.8,519.2,31.0
+SHP103,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",22,Truck,949.68,0.8,0.8,0.0,174.4,5.7
+SHP104,Potato,Pune,"APMC Vashi, Navi Mumbai",181,Truck,6065.42,4.6,7.2,2.6,641.1,4.0
+SHP105,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",62,Truck,2160.16,1.7,2.8,1.1,151.8,7.5
+SHP106,Tomato,Pune,"APMC Vashi, Navi Mumbai",195,Tempo,3455.83,5.5,7.9,2.4,281.6,5.2
+SHP107,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",133,Mini Truck,3285.44,3.6,4.8,1.2,177.7,6.3
+SHP108,Potato,Mumbai,"APMC Vashi, Navi Mumbai",171,Pickup,3633.18,4.4,4.4,0.0,418.6,15.1
+SHP109,Tomato,Nashik,"APMC Vashi, Navi Mumbai",217,Truck,7153.18,5.5,5.9,0.4,263.4,11.9
+SHP110,Onion,Pune,"APMC Vashi, Navi Mumbai",30,Truck,1506.7,0.8,2.0,1.2,469.9,26.5
+SHP111,Onion,Nashik,"APMC Vashi, Navi Mumbai",239,Truck,7607.4,6.4,7.1,0.7,260.7,2.9
+SHP112,Potato,Nagpur,"APMC Vashi, Navi Mumbai",50,Pickup,1373.13,1.5,1.8,0.3,586.1,9.9
+SHP113,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",98,Pickup,2460.88,2.6,2.6,0.0,456.7,15.5
+SHP114,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",243,Pickup,4978.66,6.8,10.1,3.3,288.1,12.8
+SHP115,Potato,Nagpur,"APMC Vashi, Navi Mumbai",227,Tempo,3972.18,6.0,8.7,2.7,500.2,4.6
+SHP116,Onion,Pune,"APMC Vashi, Navi Mumbai",88,Tempo,1839.98,2.6,3.0,0.4,288.7,13.6
+SHP117,Tomato,Pune,"APMC Vashi, Navi Mumbai",269,Tempo,4828.71,7.3,9.5,2.2,562.1,7.5
+SHP118,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",197,Pickup,3954.47,5.3,6.9,1.6,661.1,36.0
+SHP119,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",278,Tempo,5074.51,7.8,9.4,1.6,456.7,22.2
+SHP120,Tomato,Sangli,"APMC Vashi, Navi Mumbai",190,Pickup,3751.08,5.2,7.1,1.9,165.1,6.2
+SHP121,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",167,Truck,5427.94,4.5,6.3,1.8,180.6,6.9
+SHP122,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",225,Pickup,4690.81,5.8,6.7,0.9,297.4,2.3
+SHP123,Potato,Ahilyanagar,"APMC Vashi, Navi Mumbai",185,Pickup,3910.38,5.2,5.5,0.3,417.6,13.1
+SHP124,Potato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",165,Mini Truck,3959.87,5.6,5.6,0.0,376.9,7.3
+SHP125,Onion,Nashik,"APMC Vashi, Navi Mumbai",137,Mini Truck,3432.61,4.3,7.0,2.7,186.7,10.3
+SHP126,Onion,Nashik,"APMC Vashi, Navi Mumbai",111,Tempo,2377.56,2.9,3.3,0.4,210.0,7.9
+SHP127,Tomato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",56,Truck,2143.02,1.7,5.2,3.5,151.2,4.9
+SHP128,Onion,Nashik,"APMC Vashi, Navi Mumbai",22,Tempo,798.21,0.7,2.4,1.7,656.7,26.8
+SHP129,Potato,Akola,"APMC Vashi, Navi Mumbai",59,Truck,2388.81,2.1,3.6,1.5,420.5,12.1
+SHP130,Potato,Jalgaon,"APMC Vashi, Navi Mumbai",85,Tempo,1909.16,2.2,3.1,0.9,512.6,14.6
+SHP131,Potato,Jalgaon,"APMC Vashi, Navi Mumbai",127,Mini Truck,2985.9,3.2,5.3,2.1,416.3,3.0
+SHP132,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",223,Truck,7176.34,5.8,7.2,1.4,403.1,3.8
+SHP133,Onion,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",161,Mini Truck,4166.25,5.7,6.9,1.2,506.9,3.1
+SHP134,Potato,Jalgaon,"APMC Vashi, Navi Mumbai",248,Truck,7862.02,6.0,8.6,2.6,235.4,9.2
+SHP135,Potato,Ahilyanagar,"APMC Vashi, Navi Mumbai",251,Tempo,4381.96,8.3,8.7,0.4,328.7,12.2
+SHP136,Onion,Ahilyanagar,"APMC Vashi, Navi Mumbai",78,Pickup,1555.96,1.9,4.1,2.2,254.1,14.9
+SHP137,Onion,Pune,"APMC Vashi, Navi Mumbai",116,Pickup,2276.3,3.1,4.0,0.9,199.7,1.8
+SHP138,Onion,Pune,"APMC Vashi, Navi Mumbai",187,Pickup,3906.11,5.3,6.3,1.0,673.1,39.6
+SHP139,Potato,Mumbai,"APMC Vashi, Navi Mumbai",251,Mini Truck,6036.78,6.6,6.7,0.1,214.9,4.5
+SHP140,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",97,Tempo,1834.37,2.6,2.9,0.3,177.7,2.1
+SHP141,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",127,Pickup,2828.5,3.6,3.6,0.0,435.8,14.3
+SHP142,Potato,Jalgaon,"APMC Vashi, Navi Mumbai",72,Mini Truck,2229.49,2.5,4.2,1.7,131.8,1.4
+SHP143,Potato,Sangli,"APMC Vashi, Navi Mumbai",269,Tempo,4951.29,8.1,8.7,0.6,742.5,7.8
+SHP144,Potato,Pune,"APMC Vashi, Navi Mumbai",234,Mini Truck,5541.49,5.7,6.2,0.5,440.1,2.7
+SHP145,Onion,Nashik,"APMC Vashi, Navi Mumbai",238,Mini Truck,5724.77,6.6,6.6,0.0,169.9,2.2
+SHP146,Potato,Akola,"APMC Vashi, Navi Mumbai",24,Pickup,934.43,0.6,2.3,1.7,387.0,14.1
+SHP147,Onion,Mumbai,"APMC Vashi, Navi Mumbai",20,Truck,1274.24,0.5,1.7,1.2,474.0,15.4
+SHP148,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",175,Truck,5920.55,5.0,8.1,3.1,565.2,6.3
+SHP149,Onion,Nashik,"APMC Vashi, Navi Mumbai",200,Tempo,3684.3,6.7,6.7,0.0,553.3,10.5
+SHP150,Onion,Nashik,"APMC Vashi, Navi Mumbai",118,Mini Truck,2761.92,2.9,4.4,1.5,536.2,7.1
+SHP151,Tomato,Pune,"APMC Vashi, Navi Mumbai",54,Pickup,1486.93,1.6,2.9,1.3,281.6,4.6
+SHP152,Onion,Pune,"APMC Vashi, Navi Mumbai",28,Tempo,973.18,0.7,1.8,1.1,732.4,27.1
+SHP153,Potato,Ahilyanagar,"APMC Vashi, Navi Mumbai",269,Mini Truck,6107.29,6.9,9.2,2.3,452.3,15.7
+SHP154,Tomato,Satara,"APMC Vashi, Navi Mumbai",273,Mini Truck,6598.32,6.9,8.2,1.3,230.9,12.5
+SHP155,Onion,Jalgaon,"APMC Vashi, Navi Mumbai",60,Pickup,1694.23,1.6,2.7,1.1,306.2,2.8
+SHP156,Tomato,Mumbai,"APMC Vashi, Navi Mumbai",194,Tempo,3267.66,5.8,5.8,0.0,306.6,16.0
+SHP157,Tomato,Jalgaon,"APMC Vashi, Navi Mumbai",216,Tempo,3770.11,6.2,6.3,0.1,313.3,10.1
+SHP158,Tomato,Dharashiv,"APMC Vashi, Navi Mumbai",81,Mini Truck,2276.75,2.0,2.0,0.0,227.2,13.0
+SHP159,Onion,Jalgaon,"APMC Vashi, Navi Mumbai",221,Truck,6809.16,7.5,8.0,0.5,277.4,13.7
+SHP160,Onion,Pune,"APMC Vashi, Navi Mumbai",237,Tempo,3964.72,7.1,7.1,0.0,288.8,3.2
+SHP161,Potato,Solapur,"APMC Vashi, Navi Mumbai",115,Tempo,2228.47,3.0,3.9,0.9,563.9,12.6
+SHP162,Tomato,Pune,"APMC Vashi, Navi Mumbai",25,Mini Truck,1153.7,0.7,0.9,0.2,112.3,6.0
+SHP163,Potato,Nagpur,"APMC Vashi, Navi Mumbai",155,Pickup,3049.44,4.4,5.0,0.6,115.5,2.0
+SHP164,Tomato,Sangli,"APMC Vashi, Navi Mumbai",107,Mini Truck,2986.35,3.7,6.2,2.5,310.1,17.7
+SHP165,Potato,Sangli,"APMC Vashi, Navi Mumbai",97,Pickup,2313.19,2.5,3.3,0.8,289.8,2.5
+SHP166,Onion,Pune,"APMC Vashi, Navi Mumbai",168,Tempo,3286.59,4.6,5.9,1.3,673.1,30.0
+SHP167,Tomato,Sangli,"APMC Vashi, Navi Mumbai",29,Tempo,1149.57,1.0,1.3,0.3,165.1,7.0
+SHP168,Tomato,Pune,"APMC Vashi, Navi Mumbai",145,Mini Truck,3649.26,3.5,4.0,0.5,318.4,11.2
+SHP169,Tomato,Amarawati,"APMC Vashi, Navi Mumbai",138,Mini Truck,3469.61,4.5,6.9,2.4,257.1,6.0
+SHP170,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",251,Tempo,4658.08,6.9,6.9,0.0,481.8,3.9
+SHP171,Potato,Chandrapur,"APMC Vashi, Navi Mumbai",177,Truck,5471.94,4.4,5.8,1.4,393.8,5.7
+SHP172,Tomato,Ratnagiri,"APMC Vashi, Navi Mumbai",158,Tempo,2913.57,5.6,7.4,1.8,118.7,1.3
+SHP173,Potato,Ahilyanagar,"APMC Vashi, Navi Mumbai",205,Tempo,3543.72,4.9,5.7,0.8,435.8,25.6
+SHP174,Tomato,Ratnagiri,"APMC Vashi, Navi Mumbai",267,Tempo,4881.22,6.9,7.1,0.2,203.9,12.0
+SHP175,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",221,Mini Truck,5329.55,7.4,8.4,1.0,378.1,6.5
+SHP176,Tomato,Nagpur,"APMC Vashi, Navi Mumbai",144,Mini Truck,3355.29,4.4,5.7,1.3,177.7,3.8
+SHP177,Tomato,Pune,"APMC Vashi, Navi Mumbai",82,Truck,2649.84,2.3,2.8,0.5,233.7,11.5
+SHP178,Potato,Pune,"APMC Vashi, Navi Mumbai",226,Mini Truck,5646.38,5.6,7.6,2.0,209.6,4.8
+SHP179,Onion,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",74,Truck,2396.71,2.0,4.8,2.8,715.1,13.5
+SHP180,Potato,Ahilyanagar,"APMC Vashi, Navi Mumbai",106,Truck,3373.77,2.6,5.2,2.6,287.1,11.5
+SHP181,Onion,Pune,"APMC Vashi, Navi Mumbai",100,Mini Truck,2426.08,2.5,3.8,1.3,548.3,23.6
+SHP182,Tomato,Ahilyanagar,"APMC Vashi, Navi Mumbai",23,Truck,1066.1,0.7,0.9,0.2,481.8,15.6
+SHP183,Potato,Nagpur,"APMC Vashi, Navi Mumbai",117,Truck,3942.25,3.3,4.9,1.6,222.1,10.6
+SHP184,Tomato,Mumbai,"APMC Vashi, Navi Mumbai",139,Truck,4671.11,4.2,4.2,0.0,420.0,8.8
+SHP185,Onion,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",87,Mini Truck,2212.93,2.1,2.1,0.0,406.9,5.4
+SHP186,Tomato,Chandrapur,"APMC Vashi, Navi Mumbai",175,Pickup,3326.89,5.9,6.7,0.8,397.4,9.8
+SHP187,Potato,Satara,"APMC Vashi, Navi Mumbai",64,Mini Truck,1710.11,2.1,5.5,3.4,264.3,6.8
+SHP188,Potato,Pune,"APMC Vashi, Navi Mumbai",61,Tempo,1583.96,1.9,3.8,1.9,465.3,26.1
+SHP189,Onion,Nashik,"APMC Vashi, Navi Mumbai",192,Truck,6120.09,5.8,6.7,0.9,298.7,14.7
+SHP190,Potato,Nagpur,"APMC Vashi, Navi Mumbai",180,Mini Truck,4653.53,4.5,4.5,0.0,231.9,8.2
+SHP191,Potato,Nagpur,"APMC Vashi, Navi Mumbai",225,Pickup,4631.28,7.4,9.7,2.3,219.5,1.2
+SHP192,Potato,Chattrapati Sambhajinagar,"APMC Vashi, Navi Mumbai",88,Mini Truck,2289.71,2.2,2.6,0.4,790.2,41.1
+SHP193,Onion,Pune,"APMC Vashi, Navi Mumbai",258,Mini Truck,5867.11,8.9,8.9,0.0,749.1,36.0
+SHP194,Tomato,Amarawati,"APMC Vashi, Navi Mumbai",132,Truck,4479.33,4.0,4.0,0.0,255.5,1.5
+SHP195,Onion,Nashik,"APMC Vashi, Navi Mumbai",147,Truck,4825.9,3.8,8.1,4.3,602.9,28.2
+SHP196,Potato,Pune,"APMC Vashi, Navi Mumbai",104,Pickup,2193.53,3.2,5.8,2.6,169.8,4.3
+SHP197,Tomato,Pune,"APMC Vashi, Navi Mumbai",195,Tempo,3619.93,4.7,6.6,1.9,239.4,6.4
+SHP198,Potato,Sangli,"APMC Vashi, Navi Mumbai",228,Tempo,3952.24,6.6,6.6,0.0,216.8,9.6
+SHP199,Tomato,Ratnagiri,"APMC Vashi, Navi Mumbai",174,Pickup,3312.69,5.2,6.4,1.2,469.6,14.9
+SHP200,Onion,Pune,"APMC Vashi, Navi Mumbai",214,Tempo,4110.76,5.5,7.1,1.6,538.5,12.3

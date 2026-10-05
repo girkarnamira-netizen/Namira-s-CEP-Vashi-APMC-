@@ -1,0 +1,19 @@
+Table,Parameter,Meaning
+Farmers,Farmer_ID,Unique farmer/producer record ID
+Farmers,Location,Source district/location of produce
+Farmers,Product,"Onion, Potato or Tomato"
+Farmers,Quantity_Produced_kg,Estimated quantity produced
+Farmers,Production_Cost_INR,Estimated production cost
+Farmers,Quantity_Sold_kg,Quantity entering sale/distribution
+Farmers,Quantity_Wasted_kg,Estimated quantity lost/wasted
+Farmers,Selling_Price_INR_per_Qtl,Farmer selling price estimate
+Market Prices,Wholesale_Modal_INR_per_Qtl,Mandi modal price
+Market Prices,Arrival_Quantity_Tonnes,Market arrival quantity
+Transportation,Distance_km,Estimated source-to-market distance
+Transportation,Transport_Cost_INR,Estimated transport cost
+Transportation,Delay_Hours,Estimated delay
+Transportation,Quantity_Damaged_kg,Estimated quantity damaged in transit
+Distribution,Collection_Centre,Collection point in the supply chain
+Distribution,Distributor,Distributor category
+Distribution,Quantity_Delivered_kg,Quantity reaching the market/distributor
+Distribution,Quantity_Lost_kg,Estimated quantity lost before delivery
