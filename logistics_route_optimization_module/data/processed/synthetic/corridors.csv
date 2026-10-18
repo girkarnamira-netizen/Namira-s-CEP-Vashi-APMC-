@@ -1,0 +1,7 @@
+source,target,commodity,distance_km,transit_hrs,loss_pct,freight_rs_qtl,flow_mt,data_provenance,random_seed
+Nashik,APMC Vashi (Navi Mumbai),Onion,180,6.5,4.5,90,55342.07747701232,synthetic_ops_simulation_seed_42,42
+Lasalgaon (Nashik),Mumbai,Onion,210,7.0,4.0,100,116062.62897135309,synthetic_ops_simulation_seed_42,42
+Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,195,6.8,7.8,110,141337.43538792577,synthetic_ops_simulation_seed_42,42
+Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,160,5.2,6.8,90,80096.3542063045,synthetic_ops_simulation_seed_42,42
+Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,1250,36.0,4.5,280,33706.6753316626,synthetic_ops_simulation_seed_42,42
+Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,580,16.0,3.2,160,16811.717402066202,synthetic_ops_simulation_seed_42,42

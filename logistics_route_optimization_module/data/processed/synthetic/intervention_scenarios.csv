@@ -1,0 +1,5 @@
+scenario_name,transit_time_reduction_pct,cold_chain_coverage_pct,packaging_upgrade_pct,fpo_direct_share_pct,data_provenance,random_seed
+Baseline,0,0,0,0,synthetic_ops_simulation_seed_42,42
+Green Corridor Pilot,30,20,40,15,synthetic_ops_simulation_seed_42,42
+FPO Direct + Crates,15,35,70,45,synthetic_ops_simulation_seed_42,42
+Full Cold Chain Cluster,40,60,55,30,synthetic_ops_simulation_seed_42,42

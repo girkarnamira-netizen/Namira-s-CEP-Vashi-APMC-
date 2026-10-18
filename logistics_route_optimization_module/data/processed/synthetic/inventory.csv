@@ -1,0 +1,41 @@
+inventory_id,facility_node,commodity,quantity_mt,storage_type,days_in_storage,spoilage_pct,data_provenance,random_seed
+INV_001,Jalgaon,Potato,672.3,Ambient Yard,1,4.97,synthetic_ops_simulation_seed_42,42
+INV_002,Solapur,Onion,701.6,CA Store,4,5.08,synthetic_ops_simulation_seed_42,42
+INV_003,Rahata/Shirdi (Ahilyanagar),Onion,329.0,CA Store,9,5.94,synthetic_ops_simulation_seed_42,42
+INV_004,Rahata/Shirdi (Ahilyanagar),Tomato,611.6,CA Store,13,3.64,synthetic_ops_simulation_seed_42,42
+INV_005,Ahilyanagar (Ahmednagar),Tomato,29.7,Ambient Yard,11,4.4,synthetic_ops_simulation_seed_42,42
+INV_006,Lasalgaon (Nashik),Potato,93.4,CA Store,12,3.46,synthetic_ops_simulation_seed_42,42
+INV_007,Jalgaon,Onion,136.5,Cold Room,13,1.84,synthetic_ops_simulation_seed_42,42
+INV_008,Nagpur,Tomato,690.0,CA Store,12,2.09,synthetic_ops_simulation_seed_42,42
+INV_009,Pimpalgaon (Nashik),Potato,592.1,Cold Room,12,3.34,synthetic_ops_simulation_seed_42,42
+INV_010,Ahilyanagar (Ahmednagar),Potato,598.5,Cold Room,10,6.37,synthetic_ops_simulation_seed_42,42
+INV_011,Rahata/Shirdi (Ahilyanagar),Tomato,101.6,CA Store,12,6.99,synthetic_ops_simulation_seed_42,42
+INV_012,Sangli,Tomato,97.9,Ambient Yard,3,6.08,synthetic_ops_simulation_seed_42,42
+INV_013,Mumbai,Potato,783.8,CA Store,5,5.89,synthetic_ops_simulation_seed_42,42
+INV_014,Agra (Uttar Pradesh),Tomato,327.8,Cold Room,5,5.07,synthetic_ops_simulation_seed_42,42
+INV_015,Rahata/Shirdi (Ahilyanagar),Potato,339.1,Ambient Yard,8,7.52,synthetic_ops_simulation_seed_42,42
+INV_016,Pimpalgaon (Nashik),Potato,173.5,Cold Room,5,3.46,synthetic_ops_simulation_seed_42,42
+INV_017,Pune,Tomato,147.0,Ambient Yard,9,3.05,synthetic_ops_simulation_seed_42,42
+INV_018,Deesa (Gujarat),Onion,210.0,Ambient Yard,2,6.15,synthetic_ops_simulation_seed_42,42
+INV_019,Agra (Uttar Pradesh),Potato,236.9,Cold Room,3,1.89,synthetic_ops_simulation_seed_42,42
+INV_020,Ahilyanagar (Ahmednagar),Potato,385.4,Cold Room,4,0.84,synthetic_ops_simulation_seed_42,42
+INV_021,Pimpalgaon (Nashik),Onion,768.3,Ambient Yard,9,4.22,synthetic_ops_simulation_seed_42,42
+INV_022,Pune,Tomato,216.9,Ambient Yard,4,6.24,synthetic_ops_simulation_seed_42,42
+INV_023,Agra (Uttar Pradesh),Onion,723.3,Ambient Yard,13,7.87,synthetic_ops_simulation_seed_42,42
+INV_024,Deesa (Gujarat),Potato,76.0,Cold Room,2,2.78,synthetic_ops_simulation_seed_42,42
+INV_025,Rahata/Shirdi (Ahilyanagar),Onion,95.6,CA Store,11,5.13,synthetic_ops_simulation_seed_42,42
+INV_026,Ahilyanagar (Ahmednagar),Potato,148.9,Ambient Yard,4,1.7,synthetic_ops_simulation_seed_42,42
+INV_027,Agra (Uttar Pradesh),Onion,475.7,Cold Room,10,2.72,synthetic_ops_simulation_seed_42,42
+INV_028,Nashik,Tomato,335.8,Ambient Yard,10,6.29,synthetic_ops_simulation_seed_42,42
+INV_029,Solapur,Onion,754.4,Cold Room,2,7.22,synthetic_ops_simulation_seed_42,42
+INV_030,Pune,Tomato,226.3,Ambient Yard,12,1.85,synthetic_ops_simulation_seed_42,42
+INV_031,Lasalgaon (Nashik),Potato,370.9,Ambient Yard,4,5.83,synthetic_ops_simulation_seed_42,42
+INV_032,Agra (Uttar Pradesh),Onion,702.2,CA Store,5,4.48,synthetic_ops_simulation_seed_42,42
+INV_033,Solapur,Tomato,210.9,Ambient Yard,3,7.55,synthetic_ops_simulation_seed_42,42
+INV_034,Agra (Uttar Pradesh),Onion,626.3,Ambient Yard,7,4.18,synthetic_ops_simulation_seed_42,42
+INV_035,Ahilyanagar (Ahmednagar),Potato,438.5,CA Store,6,1.49,synthetic_ops_simulation_seed_42,42
+INV_036,Pune,Potato,762.8,Ambient Yard,7,7.65,synthetic_ops_simulation_seed_42,42
+INV_037,Nagpur,Onion,452.4,CA Store,3,2.4,synthetic_ops_simulation_seed_42,42
+INV_038,Mumbai,Tomato,112.8,Ambient Yard,12,2.91,synthetic_ops_simulation_seed_42,42
+INV_039,Junnar/Manchar (Pune),Tomato,382.7,CA Store,6,4.49,synthetic_ops_simulation_seed_42,42
+INV_040,Nagpur,Potato,791.1,Ambient Yard,11,6.06,synthetic_ops_simulation_seed_42,42

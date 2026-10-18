@@ -1,0 +1,81 @@
+stakeholder_id,name,role,node_name,district,commodities,data_provenance,random_seed
+STK_001,Stakeholder 1,Retailer,APMC Vashi (Navi Mumbai),Thane/Mumbai,"Onion,Potato",synthetic_ops_simulation_seed_42,42
+STK_002,Stakeholder 2,Retailer,APMC Vashi (Navi Mumbai),Thane/Mumbai,Onion,synthetic_ops_simulation_seed_42,42
+STK_003,Stakeholder 3,Cold Storage,Ahilyanagar (Ahmednagar),Ahilyanagar,"Potato,Tomato",synthetic_ops_simulation_seed_42,42
+STK_004,Stakeholder 4,Farmer / FPO,Ahilyanagar (Ahmednagar),Ahilyanagar,"Potato,Onion",synthetic_ops_simulation_seed_42,42
+STK_005,Stakeholder 5,Cold Storage,Nagpur,Nagpur,"Potato,Tomato",synthetic_ops_simulation_seed_42,42
+STK_006,Stakeholder 6,Transporter,Ahilyanagar (Ahmednagar),Ahilyanagar,Onion,synthetic_ops_simulation_seed_42,42
+STK_007,Stakeholder 7,Wholesaler,APMC Vashi (Navi Mumbai),Thane/Mumbai,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_008,Stakeholder 8,Wholesaler,Kolhapur,Kolhapur,Tomato,synthetic_ops_simulation_seed_42,42
+STK_009,Stakeholder 9,Transporter,Satara,Satara,Tomato,synthetic_ops_simulation_seed_42,42
+STK_010,Stakeholder 10,Cold Storage,Lasalgaon (Nashik),Nashik,"Tomato,Potato",synthetic_ops_simulation_seed_42,42
+STK_011,Stakeholder 11,Transporter,Nashik,Nashik,Onion,synthetic_ops_simulation_seed_42,42
+STK_012,Stakeholder 12,Farmer / FPO,Ahilyanagar (Ahmednagar),Ahilyanagar,"Potato,Tomato",synthetic_ops_simulation_seed_42,42
+STK_013,Stakeholder 13,Cold Storage,Nashik,Nashik,Onion,synthetic_ops_simulation_seed_42,42
+STK_014,Stakeholder 14,Transporter,Indore (Madhya Pradesh),Indore,Potato,synthetic_ops_simulation_seed_42,42
+STK_015,Stakeholder 15,Commission Agent,Sangli,Sangli,Onion,synthetic_ops_simulation_seed_42,42
+STK_016,Stakeholder 16,Transporter,Jalgaon,Jalgaon,Onion,synthetic_ops_simulation_seed_42,42
+STK_017,Stakeholder 17,Retailer,Rahata/Shirdi (Ahilyanagar),Ahilyanagar,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_018,Stakeholder 18,Retailer,Junnar/Manchar (Pune),Pune,Onion,synthetic_ops_simulation_seed_42,42
+STK_019,Stakeholder 19,Retailer,Sangli,Sangli,Tomato,synthetic_ops_simulation_seed_42,42
+STK_020,Stakeholder 20,Transporter,Amravati,Amravati,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_021,Stakeholder 21,Farmer / FPO,Junnar/Manchar (Pune),Pune,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_022,Stakeholder 22,Retailer,Sangli,Sangli,"Potato,Tomato",synthetic_ops_simulation_seed_42,42
+STK_023,Stakeholder 23,Retailer,Kolhapur,Kolhapur,"Onion,Potato",synthetic_ops_simulation_seed_42,42
+STK_024,Stakeholder 24,Farmer / FPO,Mumbai,Mumbai,Onion,synthetic_ops_simulation_seed_42,42
+STK_025,Stakeholder 25,Retailer,Lasalgaon (Nashik),Nashik,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_026,Stakeholder 26,Retailer,APMC Vashi (Navi Mumbai),Thane/Mumbai,"Potato,Tomato",synthetic_ops_simulation_seed_42,42
+STK_027,Stakeholder 27,Wholesaler,APMC Vashi (Navi Mumbai),Thane/Mumbai,"Potato,Onion",synthetic_ops_simulation_seed_42,42
+STK_028,Stakeholder 28,Transporter,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_029,Stakeholder 29,Cold Storage,Deesa (Gujarat),Banaskantha,Onion,synthetic_ops_simulation_seed_42,42
+STK_030,Stakeholder 30,Farmer / FPO,Amravati,Amravati,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_031,Stakeholder 31,Wholesaler,Lasalgaon (Nashik),Nashik,Potato,synthetic_ops_simulation_seed_42,42
+STK_032,Stakeholder 32,Retailer,Ahilyanagar (Ahmednagar),Ahilyanagar,"Tomato,Potato",synthetic_ops_simulation_seed_42,42
+STK_033,Stakeholder 33,Retailer,Lasalgaon (Nashik),Nashik,Onion,synthetic_ops_simulation_seed_42,42
+STK_034,Stakeholder 34,Farmer / FPO,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Onion,synthetic_ops_simulation_seed_42,42
+STK_035,Stakeholder 35,Retailer,Sangli,Sangli,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_036,Stakeholder 36,Wholesaler,Indore (Madhya Pradesh),Indore,"Onion,Potato",synthetic_ops_simulation_seed_42,42
+STK_037,Stakeholder 37,Transporter,Pimpalgaon (Nashik),Nashik,Potato,synthetic_ops_simulation_seed_42,42
+STK_038,Stakeholder 38,Commission Agent,Solapur,Solapur,"Tomato,Potato",synthetic_ops_simulation_seed_42,42
+STK_039,Stakeholder 39,Farmer / FPO,Deesa (Gujarat),Banaskantha,Onion,synthetic_ops_simulation_seed_42,42
+STK_040,Stakeholder 40,Cold Storage,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Tomato,synthetic_ops_simulation_seed_42,42
+STK_041,Stakeholder 41,Retailer,Pimpalgaon (Nashik),Nashik,Onion,synthetic_ops_simulation_seed_42,42
+STK_042,Stakeholder 42,Cold Storage,Sangli,Sangli,Tomato,synthetic_ops_simulation_seed_42,42
+STK_043,Stakeholder 43,Retailer,Kolhapur,Kolhapur,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_044,Stakeholder 44,Farmer / FPO,APMC Vashi (Navi Mumbai),Thane/Mumbai,Tomato,synthetic_ops_simulation_seed_42,42
+STK_045,Stakeholder 45,Transporter,Pune,Pune,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_046,Stakeholder 46,Wholesaler,Amravati,Amravati,"Onion,Potato",synthetic_ops_simulation_seed_42,42
+STK_047,Stakeholder 47,Retailer,Mumbai,Mumbai,Tomato,synthetic_ops_simulation_seed_42,42
+STK_048,Stakeholder 48,Transporter,Jalgaon,Jalgaon,Potato,synthetic_ops_simulation_seed_42,42
+STK_049,Stakeholder 49,Wholesaler,Pune,Pune,Potato,synthetic_ops_simulation_seed_42,42
+STK_050,Stakeholder 50,Farmer / FPO,Junnar/Manchar (Pune),Pune,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_051,Stakeholder 51,Transporter,Nagpur,Nagpur,Onion,synthetic_ops_simulation_seed_42,42
+STK_052,Stakeholder 52,Farmer / FPO,Jalgaon,Jalgaon,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_053,Stakeholder 53,Commission Agent,Sangli,Sangli,Tomato,synthetic_ops_simulation_seed_42,42
+STK_054,Stakeholder 54,Wholesaler,Deesa (Gujarat),Banaskantha,Potato,synthetic_ops_simulation_seed_42,42
+STK_055,Stakeholder 55,Wholesaler,Junnar/Manchar (Pune),Pune,Onion,synthetic_ops_simulation_seed_42,42
+STK_056,Stakeholder 56,Cold Storage,Nagpur,Nagpur,Potato,synthetic_ops_simulation_seed_42,42
+STK_057,Stakeholder 57,Retailer,Pimpalgaon (Nashik),Nashik,Onion,synthetic_ops_simulation_seed_42,42
+STK_058,Stakeholder 58,Transporter,Kolhapur,Kolhapur,"Onion,Potato",synthetic_ops_simulation_seed_42,42
+STK_059,Stakeholder 59,Wholesaler,Nagpur,Nagpur,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_060,Stakeholder 60,Commission Agent,Deesa (Gujarat),Banaskantha,"Tomato,Potato",synthetic_ops_simulation_seed_42,42
+STK_061,Stakeholder 61,Farmer / FPO,Kolhapur,Kolhapur,Tomato,synthetic_ops_simulation_seed_42,42
+STK_062,Stakeholder 62,Cold Storage,Mumbai,Mumbai,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_063,Stakeholder 63,Farmer / FPO,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,"Onion,Potato",synthetic_ops_simulation_seed_42,42
+STK_064,Stakeholder 64,Wholesaler,Solapur,Solapur,"Potato,Tomato",synthetic_ops_simulation_seed_42,42
+STK_065,Stakeholder 65,Farmer / FPO,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,"Tomato,Potato",synthetic_ops_simulation_seed_42,42
+STK_066,Stakeholder 66,Farmer / FPO,Solapur,Solapur,Potato,synthetic_ops_simulation_seed_42,42
+STK_067,Stakeholder 67,Transporter,Ahilyanagar (Ahmednagar),Ahilyanagar,Tomato,synthetic_ops_simulation_seed_42,42
+STK_068,Stakeholder 68,Retailer,Pimpalgaon (Nashik),Nashik,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_069,Stakeholder 69,Commission Agent,Junnar/Manchar (Pune),Pune,"Tomato,Potato",synthetic_ops_simulation_seed_42,42
+STK_070,Stakeholder 70,Cold Storage,Deesa (Gujarat),Banaskantha,Onion,synthetic_ops_simulation_seed_42,42
+STK_071,Stakeholder 71,Farmer / FPO,Ahilyanagar (Ahmednagar),Ahilyanagar,Potato,synthetic_ops_simulation_seed_42,42
+STK_072,Stakeholder 72,Cold Storage,Deesa (Gujarat),Banaskantha,Tomato,synthetic_ops_simulation_seed_42,42
+STK_073,Stakeholder 73,Retailer,APMC Vashi (Navi Mumbai),Thane/Mumbai,"Potato,Onion",synthetic_ops_simulation_seed_42,42
+STK_074,Stakeholder 74,Wholesaler,Pune,Pune,Onion,synthetic_ops_simulation_seed_42,42
+STK_075,Stakeholder 75,Retailer,Mumbai,Mumbai,Potato,synthetic_ops_simulation_seed_42,42
+STK_076,Stakeholder 76,Transporter,Lasalgaon (Nashik),Nashik,"Onion,Tomato",synthetic_ops_simulation_seed_42,42
+STK_077,Stakeholder 77,Commission Agent,Nashik,Nashik,Tomato,synthetic_ops_simulation_seed_42,42
+STK_078,Stakeholder 78,Commission Agent,Indore (Madhya Pradesh),Indore,Onion,synthetic_ops_simulation_seed_42,42
+STK_079,Stakeholder 79,Retailer,APMC Vashi (Navi Mumbai),Thane/Mumbai,"Tomato,Onion",synthetic_ops_simulation_seed_42,42
+STK_080,Stakeholder 80,Wholesaler,Nashik,Nashik,"Onion,Potato",synthetic_ops_simulation_seed_42,42

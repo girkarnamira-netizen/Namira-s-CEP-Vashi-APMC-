@@ -1,0 +1,19 @@
+commodity,stage,loss_pct_of_total,data_provenance,random_seed
+Onion,Field Harvest,2.35,synthetic_ops_simulation_seed_42,42
+Onion,Farm Packaging,0.81,synthetic_ops_simulation_seed_42,42
+Onion,Primary Transit,11.11,synthetic_ops_simulation_seed_42,42
+Onion,Mandi Yard,0.57,synthetic_ops_simulation_seed_42,42
+Onion,Wholesale Storage,3.68,synthetic_ops_simulation_seed_42,42
+Onion,Retail,5.47,synthetic_ops_simulation_seed_42,42
+Potato,Field Harvest,6.48,synthetic_ops_simulation_seed_42,42
+Potato,Farm Packaging,0.66,synthetic_ops_simulation_seed_42,42
+Potato,Primary Transit,3.92,synthetic_ops_simulation_seed_42,42
+Potato,Mandi Yard,1.72,synthetic_ops_simulation_seed_42,42
+Potato,Wholesale Storage,3.91,synthetic_ops_simulation_seed_42,42
+Potato,Retail,0.81,synthetic_ops_simulation_seed_42,42
+Tomato,Field Harvest,2.48,synthetic_ops_simulation_seed_42,42
+Tomato,Farm Packaging,1.88,synthetic_ops_simulation_seed_42,42
+Tomato,Primary Transit,7.78,synthetic_ops_simulation_seed_42,42
+Tomato,Mandi Yard,4.84,synthetic_ops_simulation_seed_42,42
+Tomato,Wholesale Storage,6.45,synthetic_ops_simulation_seed_42,42
+Tomato,Retail,9.56,synthetic_ops_simulation_seed_42,42

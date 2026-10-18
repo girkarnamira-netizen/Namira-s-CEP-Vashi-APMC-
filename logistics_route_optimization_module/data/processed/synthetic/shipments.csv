@@ -1,0 +1,121 @@
+shipment_id,origin,destination,commodity,quantity_mt,dispatch_date,scheduled_transit_hrs,actual_transit_hrs,transit_loss_pct,freight_rs_qtl,vehicle_type,stakeholder_id,data_provenance,random_seed
+SHP_0001,Lasalgaon (Nashik),Mumbai,Onion,16.46,2026-10-03,7.0,10.7,2.46,100,Multi-Axle,STK_045,synthetic_ops_simulation_seed_42,42
+SHP_0002,Nashik,APMC Vashi (Navi Mumbai),Onion,9.24,2026-09-22,6.5,7.5,3.83,90,Open Canter,STK_078,synthetic_ops_simulation_seed_42,42
+SHP_0003,Nashik,APMC Vashi (Navi Mumbai),Onion,42.32,2026-09-21,6.5,9.8,3.96,90,Multi-Axle,STK_063,synthetic_ops_simulation_seed_42,42
+SHP_0004,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,9.37,2026-09-01,16.0,19.4,3.45,160,Tata 407,STK_019,synthetic_ops_simulation_seed_42,42
+SHP_0005,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,29.24,2026-09-19,6.8,10.3,7.5,110,Tata 407,STK_034,synthetic_ops_simulation_seed_42,42
+SHP_0006,Nashik,APMC Vashi (Navi Mumbai),Onion,22.04,2026-09-13,6.5,9.3,5.04,90,Tata 407,STK_037,synthetic_ops_simulation_seed_42,42
+SHP_0007,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,14.47,2026-09-09,5.2,8.3,7.41,90,Reefer,STK_009,synthetic_ops_simulation_seed_42,42
+SHP_0008,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,28.78,2026-09-03,16.0,17.0,3.5,160,Tata 407,STK_025,synthetic_ops_simulation_seed_42,42
+SHP_0009,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,41.84,2026-09-05,16.0,17.1,2.47,160,Multi-Axle,STK_013,synthetic_ops_simulation_seed_42,42
+SHP_0010,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,5.85,2026-09-04,6.8,7.5,5.5,110,Reefer,STK_005,synthetic_ops_simulation_seed_42,42
+SHP_0011,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,32.23,2026-09-21,6.8,8.7,6.17,110,Reefer,STK_041,synthetic_ops_simulation_seed_42,42
+SHP_0012,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,39.05,2026-09-30,36.0,36.7,3.19,280,Reefer,STK_019,synthetic_ops_simulation_seed_42,42
+SHP_0013,Lasalgaon (Nashik),Mumbai,Onion,27.85,2026-09-09,7.0,9.0,2.52,100,Open Canter,STK_030,synthetic_ops_simulation_seed_42,42
+SHP_0014,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,9.07,2026-09-18,16.0,19.4,2.02,160,Tata 407,STK_074,synthetic_ops_simulation_seed_42,42
+SHP_0015,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,38.74,2026-09-04,36.0,39.7,5.34,280,Tata 407,STK_065,synthetic_ops_simulation_seed_42,42
+SHP_0016,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,30.7,2026-09-27,5.2,8.4,4.63,90,Reefer,STK_043,synthetic_ops_simulation_seed_42,42
+SHP_0017,Lasalgaon (Nashik),Mumbai,Onion,39.3,2026-09-18,7.0,9.1,3.32,100,Multi-Axle,STK_052,synthetic_ops_simulation_seed_42,42
+SHP_0018,Lasalgaon (Nashik),Mumbai,Onion,10.59,2026-09-10,7.0,9.2,3.4,100,Multi-Axle,STK_019,synthetic_ops_simulation_seed_42,42
+SHP_0019,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,19.66,2026-09-13,6.8,8.4,6.46,110,Open Canter,STK_055,synthetic_ops_simulation_seed_42,42
+SHP_0020,Lasalgaon (Nashik),Mumbai,Onion,42.95,2026-09-11,7.0,10.7,3.55,100,Reefer,STK_027,synthetic_ops_simulation_seed_42,42
+SHP_0021,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,38.94,2026-09-19,6.8,9.6,8.44,110,Multi-Axle,STK_043,synthetic_ops_simulation_seed_42,42
+SHP_0022,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,16.53,2026-09-22,36.0,39.1,3.25,280,Multi-Axle,STK_056,synthetic_ops_simulation_seed_42,42
+SHP_0023,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,10.28,2026-09-30,5.2,7.9,4.47,90,Multi-Axle,STK_059,synthetic_ops_simulation_seed_42,42
+SHP_0024,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,42.44,2026-09-03,5.2,6.2,7.99,90,Open Canter,STK_065,synthetic_ops_simulation_seed_42,42
+SHP_0025,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,36.3,2026-09-21,6.8,10.1,9.11,110,Open Canter,STK_021,synthetic_ops_simulation_seed_42,42
+SHP_0026,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,8.8,2026-09-21,36.0,38.7,3.16,280,Open Canter,STK_046,synthetic_ops_simulation_seed_42,42
+SHP_0027,Nashik,APMC Vashi (Navi Mumbai),Onion,23.64,2026-09-20,6.5,8.8,4.76,90,Reefer,STK_064,synthetic_ops_simulation_seed_42,42
+SHP_0028,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,28.98,2026-09-17,5.2,9.0,4.57,90,Reefer,STK_010,synthetic_ops_simulation_seed_42,42
+SHP_0029,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,31.31,2026-09-03,36.0,38.0,4.79,280,Open Canter,STK_054,synthetic_ops_simulation_seed_42,42
+SHP_0030,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,40.93,2026-09-12,36.0,39.2,3.43,280,Reefer,STK_030,synthetic_ops_simulation_seed_42,42
+SHP_0031,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,11.3,2026-09-11,5.2,6.2,7.9,90,Multi-Axle,STK_036,synthetic_ops_simulation_seed_42,42
+SHP_0032,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,34.19,2026-09-14,36.0,38.4,5.23,280,Tata 407,STK_063,synthetic_ops_simulation_seed_42,42
+SHP_0033,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,20.05,2026-09-17,5.2,9.2,7.01,90,Reefer,STK_077,synthetic_ops_simulation_seed_42,42
+SHP_0034,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,39.02,2026-09-05,6.8,9.5,5.25,110,Tata 407,STK_048,synthetic_ops_simulation_seed_42,42
+SHP_0035,Nashik,APMC Vashi (Navi Mumbai),Onion,5.49,2026-09-24,6.5,8.6,4.93,90,Tata 407,STK_024,synthetic_ops_simulation_seed_42,42
+SHP_0036,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,22.69,2026-09-16,16.0,17.6,3.68,160,Multi-Axle,STK_063,synthetic_ops_simulation_seed_42,42
+SHP_0037,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,44.88,2026-09-04,5.2,8.8,5.24,90,Reefer,STK_067,synthetic_ops_simulation_seed_42,42
+SHP_0038,Nashik,APMC Vashi (Navi Mumbai),Onion,44.96,2026-09-04,6.5,9.3,4.46,90,Multi-Axle,STK_008,synthetic_ops_simulation_seed_42,42
+SHP_0039,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,6.16,2026-10-01,36.0,37.3,3.09,280,Reefer,STK_063,synthetic_ops_simulation_seed_42,42
+SHP_0040,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,41.43,2026-09-07,36.0,38.8,2.8,280,Open Canter,STK_001,synthetic_ops_simulation_seed_42,42
+SHP_0041,Nashik,APMC Vashi (Navi Mumbai),Onion,29.24,2026-09-02,6.5,9.8,3.34,90,Tata 407,STK_068,synthetic_ops_simulation_seed_42,42
+SHP_0042,Lasalgaon (Nashik),Mumbai,Onion,37.04,2026-09-02,7.0,10.7,4.25,100,Reefer,STK_056,synthetic_ops_simulation_seed_42,42
+SHP_0043,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,6.61,2026-09-29,36.0,37.2,3.04,280,Multi-Axle,STK_041,synthetic_ops_simulation_seed_42,42
+SHP_0044,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,30.2,2026-09-26,5.2,8.7,4.71,90,Reefer,STK_059,synthetic_ops_simulation_seed_42,42
+SHP_0045,Nashik,APMC Vashi (Navi Mumbai),Onion,15.83,2026-09-07,6.5,9.5,5.35,90,Multi-Axle,STK_049,synthetic_ops_simulation_seed_42,42
+SHP_0046,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,29.65,2026-09-02,5.2,5.8,7.69,90,Tata 407,STK_057,synthetic_ops_simulation_seed_42,42
+SHP_0047,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,8.67,2026-09-06,6.8,7.9,9.27,110,Multi-Axle,STK_037,synthetic_ops_simulation_seed_42,42
+SHP_0048,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,30.46,2026-09-27,5.2,7.7,4.67,90,Open Canter,STK_076,synthetic_ops_simulation_seed_42,42
+SHP_0049,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,28.12,2026-09-11,5.2,8.1,6.73,90,Tata 407,STK_076,synthetic_ops_simulation_seed_42,42
+SHP_0050,Nashik,APMC Vashi (Navi Mumbai),Onion,25.33,2026-09-06,6.5,8.4,3.98,90,Open Canter,STK_010,synthetic_ops_simulation_seed_42,42
+SHP_0051,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,16.12,2026-09-05,16.0,17.6,2.74,160,Reefer,STK_049,synthetic_ops_simulation_seed_42,42
+SHP_0052,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,21.47,2026-09-22,6.8,8.7,5.7,110,Reefer,STK_048,synthetic_ops_simulation_seed_42,42
+SHP_0053,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,6.44,2026-09-11,5.2,7.2,6.01,90,Open Canter,STK_019,synthetic_ops_simulation_seed_42,42
+SHP_0054,Nashik,APMC Vashi (Navi Mumbai),Onion,27.63,2026-09-20,6.5,9.5,4.45,90,Multi-Axle,STK_053,synthetic_ops_simulation_seed_42,42
+SHP_0055,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,36.5,2026-09-11,5.2,7.6,5.84,90,Multi-Axle,STK_051,synthetic_ops_simulation_seed_42,42
+SHP_0056,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,25.51,2026-09-13,5.2,8.3,7.7,90,Open Canter,STK_074,synthetic_ops_simulation_seed_42,42
+SHP_0057,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,25.81,2026-09-18,16.0,19.3,2.52,160,Multi-Axle,STK_067,synthetic_ops_simulation_seed_42,42
+SHP_0058,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,9.63,2026-09-17,6.8,7.6,8.62,110,Reefer,STK_005,synthetic_ops_simulation_seed_42,42
+SHP_0059,Nashik,APMC Vashi (Navi Mumbai),Onion,18.37,2026-09-10,6.5,7.6,3.55,90,Open Canter,STK_060,synthetic_ops_simulation_seed_42,42
+SHP_0060,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,38.09,2026-09-01,16.0,19.5,2.63,160,Multi-Axle,STK_013,synthetic_ops_simulation_seed_42,42
+SHP_0061,Lasalgaon (Nashik),Mumbai,Onion,9.79,2026-09-21,7.0,8.8,4.7,100,Open Canter,STK_080,synthetic_ops_simulation_seed_42,42
+SHP_0062,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,17.44,2026-09-27,6.8,9.7,7.98,110,Reefer,STK_032,synthetic_ops_simulation_seed_42,42
+SHP_0063,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,5.43,2026-09-22,16.0,17.2,2.93,160,Tata 407,STK_014,synthetic_ops_simulation_seed_42,42
+SHP_0064,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,38.45,2026-09-06,36.0,40.0,4.2,280,Open Canter,STK_068,synthetic_ops_simulation_seed_42,42
+SHP_0065,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,10.66,2026-10-04,36.0,38.1,3.76,280,Tata 407,STK_007,synthetic_ops_simulation_seed_42,42
+SHP_0066,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,22.35,2026-09-26,16.0,18.1,2.21,160,Tata 407,STK_015,synthetic_ops_simulation_seed_42,42
+SHP_0067,Lasalgaon (Nashik),Mumbai,Onion,6.79,2026-10-01,7.0,8.3,3.1,100,Open Canter,STK_040,synthetic_ops_simulation_seed_42,42
+SHP_0068,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,24.73,2026-09-20,16.0,16.8,2.39,160,Reefer,STK_068,synthetic_ops_simulation_seed_42,42
+SHP_0069,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,30.97,2026-09-22,16.0,18.8,3.38,160,Multi-Axle,STK_005,synthetic_ops_simulation_seed_42,42
+SHP_0070,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,26.58,2026-09-13,36.0,37.7,4.98,280,Tata 407,STK_039,synthetic_ops_simulation_seed_42,42
+SHP_0071,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,39.08,2026-09-27,5.2,7.5,7.79,90,Tata 407,STK_047,synthetic_ops_simulation_seed_42,42
+SHP_0072,Nashik,APMC Vashi (Navi Mumbai),Onion,18.62,2026-09-29,6.5,8.7,4.13,90,Multi-Axle,STK_009,synthetic_ops_simulation_seed_42,42
+SHP_0073,Nashik,APMC Vashi (Navi Mumbai),Onion,41.69,2026-09-14,6.5,9.2,3.18,90,Open Canter,STK_028,synthetic_ops_simulation_seed_42,42
+SHP_0074,Lasalgaon (Nashik),Mumbai,Onion,5.99,2026-09-07,7.0,10.7,3.48,100,Tata 407,STK_025,synthetic_ops_simulation_seed_42,42
+SHP_0075,Nashik,APMC Vashi (Navi Mumbai),Onion,5.29,2026-09-21,6.5,8.0,4.6,90,Multi-Axle,STK_051,synthetic_ops_simulation_seed_42,42
+SHP_0076,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,29.81,2026-10-04,36.0,38.2,4.76,280,Multi-Axle,STK_073,synthetic_ops_simulation_seed_42,42
+SHP_0077,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,43.53,2026-09-25,5.2,8.4,7.62,90,Open Canter,STK_010,synthetic_ops_simulation_seed_42,42
+SHP_0078,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,22.6,2026-09-25,5.2,7.6,6.75,90,Tata 407,STK_078,synthetic_ops_simulation_seed_42,42
+SHP_0079,Nashik,APMC Vashi (Navi Mumbai),Onion,16.53,2026-10-04,6.5,9.6,4.72,90,Multi-Axle,STK_028,synthetic_ops_simulation_seed_42,42
+SHP_0080,Nashik,APMC Vashi (Navi Mumbai),Onion,6.64,2026-09-05,6.5,9.7,4.02,90,Reefer,STK_079,synthetic_ops_simulation_seed_42,42
+SHP_0081,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,44.12,2026-09-16,16.0,17.9,3.44,160,Multi-Axle,STK_007,synthetic_ops_simulation_seed_42,42
+SHP_0082,Lasalgaon (Nashik),Mumbai,Onion,37.08,2026-09-19,7.0,10.7,4.37,100,Open Canter,STK_003,synthetic_ops_simulation_seed_42,42
+SHP_0083,Nashik,APMC Vashi (Navi Mumbai),Onion,6.95,2026-09-13,6.5,7.4,4.52,90,Reefer,STK_058,synthetic_ops_simulation_seed_42,42
+SHP_0084,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,39.62,2026-09-27,5.2,8.3,7.35,90,Tata 407,STK_004,synthetic_ops_simulation_seed_42,42
+SHP_0085,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,29.88,2026-09-08,16.0,19.5,1.93,160,Reefer,STK_042,synthetic_ops_simulation_seed_42,42
+SHP_0086,Lasalgaon (Nashik),Mumbai,Onion,6.18,2026-09-24,7.0,8.9,4.55,100,Multi-Axle,STK_054,synthetic_ops_simulation_seed_42,42
+SHP_0087,Lasalgaon (Nashik),Mumbai,Onion,39.11,2026-09-09,7.0,8.7,4.45,100,Reefer,STK_024,synthetic_ops_simulation_seed_42,42
+SHP_0088,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,20.88,2026-09-21,36.0,37.5,5.09,280,Reefer,STK_016,synthetic_ops_simulation_seed_42,42
+SHP_0089,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,18.68,2026-09-03,36.0,39.0,4.88,280,Multi-Axle,STK_080,synthetic_ops_simulation_seed_42,42
+SHP_0090,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,21.32,2026-09-11,5.2,6.2,6.43,90,Open Canter,STK_080,synthetic_ops_simulation_seed_42,42
+SHP_0091,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,28.81,2026-09-24,16.0,17.9,3.68,160,Open Canter,STK_040,synthetic_ops_simulation_seed_42,42
+SHP_0092,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,19.62,2026-09-05,6.8,7.5,5.63,110,Multi-Axle,STK_002,synthetic_ops_simulation_seed_42,42
+SHP_0093,Lasalgaon (Nashik),Mumbai,Onion,30.38,2026-09-16,7.0,8.7,3.41,100,Reefer,STK_077,synthetic_ops_simulation_seed_42,42
+SHP_0094,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,26.63,2026-09-26,16.0,17.5,3.64,160,Tata 407,STK_019,synthetic_ops_simulation_seed_42,42
+SHP_0095,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,41.36,2026-09-12,5.2,7.6,7.11,90,Open Canter,STK_048,synthetic_ops_simulation_seed_42,42
+SHP_0096,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,16.98,2026-09-23,5.2,6.5,5.4,90,Open Canter,STK_013,synthetic_ops_simulation_seed_42,42
+SHP_0097,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,16.33,2026-09-30,6.8,9.3,8.39,110,Multi-Axle,STK_063,synthetic_ops_simulation_seed_42,42
+SHP_0098,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,24.05,2026-09-15,5.2,9.2,6.83,90,Tata 407,STK_066,synthetic_ops_simulation_seed_42,42
+SHP_0099,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,36.5,2026-10-01,36.0,37.1,4.22,280,Tata 407,STK_009,synthetic_ops_simulation_seed_42,42
+SHP_0100,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,43.21,2026-09-23,6.8,9.1,6.71,110,Open Canter,STK_003,synthetic_ops_simulation_seed_42,42
+SHP_0101,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,9.12,2026-10-03,16.0,16.6,2.39,160,Multi-Axle,STK_006,synthetic_ops_simulation_seed_42,42
+SHP_0102,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,25.64,2026-09-16,16.0,17.6,2.02,160,Reefer,STK_009,synthetic_ops_simulation_seed_42,42
+SHP_0103,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,7.42,2026-09-14,5.2,8.1,4.92,90,Reefer,STK_025,synthetic_ops_simulation_seed_42,42
+SHP_0104,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,21.66,2026-09-14,6.8,7.3,5.2,110,Tata 407,STK_070,synthetic_ops_simulation_seed_42,42
+SHP_0105,Nashik,APMC Vashi (Navi Mumbai),Onion,25.33,2026-09-01,6.5,8.7,3.6,90,Tata 407,STK_035,synthetic_ops_simulation_seed_42,42
+SHP_0106,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,38.65,2026-09-27,5.2,6.6,5.4,90,Multi-Axle,STK_020,synthetic_ops_simulation_seed_42,42
+SHP_0107,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,32.33,2026-09-17,16.0,17.3,2.56,160,Open Canter,STK_075,synthetic_ops_simulation_seed_42,42
+SHP_0108,Pimpalgaon (Nashik),APMC Vashi (Navi Mumbai),Tomato,23.43,2026-09-02,6.8,9.8,5.38,110,Multi-Axle,STK_004,synthetic_ops_simulation_seed_42,42
+SHP_0109,Lasalgaon (Nashik),Mumbai,Onion,41.75,2026-09-05,7.0,7.5,2.85,100,Reefer,STK_003,synthetic_ops_simulation_seed_42,42
+SHP_0110,Nashik,APMC Vashi (Navi Mumbai),Onion,29.81,2026-09-04,6.5,7.8,4.24,90,Open Canter,STK_048,synthetic_ops_simulation_seed_42,42
+SHP_0111,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,5.19,2026-09-29,36.0,39.5,4.37,280,Tata 407,STK_014,synthetic_ops_simulation_seed_42,42
+SHP_0112,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,39.22,2026-09-27,16.0,17.4,3.68,160,Multi-Axle,STK_037,synthetic_ops_simulation_seed_42,42
+SHP_0113,Indore (Madhya Pradesh),APMC Vashi (Navi Mumbai),Potato,44.39,2026-09-21,16.0,17.8,3.48,160,Open Canter,STK_026,synthetic_ops_simulation_seed_42,42
+SHP_0114,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,29.03,2026-09-28,5.2,6.5,5.77,90,Multi-Axle,STK_026,synthetic_ops_simulation_seed_42,42
+SHP_0115,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,6.19,2026-09-03,36.0,37.7,2.75,280,Multi-Axle,STK_014,synthetic_ops_simulation_seed_42,42
+SHP_0116,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,33.32,2026-09-25,5.2,8.3,5.37,90,Open Canter,STK_072,synthetic_ops_simulation_seed_42,42
+SHP_0117,Nashik,APMC Vashi (Navi Mumbai),Onion,10.04,2026-09-21,6.5,7.5,4.57,90,Open Canter,STK_014,synthetic_ops_simulation_seed_42,42
+SHP_0118,Agra (Uttar Pradesh),APMC Vashi (Navi Mumbai),Potato,44.67,2026-09-18,36.0,36.5,2.74,280,Multi-Axle,STK_080,synthetic_ops_simulation_seed_42,42
+SHP_0119,Junnar/Manchar (Pune),APMC Vashi (Navi Mumbai),Tomato,10.08,2026-09-20,5.2,8.8,7.67,90,Tata 407,STK_043,synthetic_ops_simulation_seed_42,42
+SHP_0120,Nashik,APMC Vashi (Navi Mumbai),Onion,15.93,2026-09-22,6.5,7.2,4.31,90,Open Canter,STK_024,synthetic_ops_simulation_seed_42,42
